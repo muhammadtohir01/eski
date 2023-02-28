@@ -71,14 +71,14 @@ def toli(update: Update, context: CallbackContext):
     rasm10 = InlineKeyboardButton(text='rasm10',callback_data='rasm20')
     rasm11= InlineKeyboardButton(text='rasm11',callback_data='rasm21')
     rasm12= InlineKeyboardButton(text='rasm12',callback_data='rasm22')
-    rasm13= InlineKeyboardButton(text='rasm12',callback_data='rasm23')
-    rasm14= InlineKeyboardButton(text='rasm12',callback_data='rasm24')
-    rasm15= InlineKeyboardButton(text='rasm12',callback_data='rasm25')
-    rasm16= InlineKeyboardButton(text='rasm12',callback_data='rasm26')
-    rasm17= InlineKeyboardButton(text='rasm12',callback_data='rasm27')
-    rasm18= InlineKeyboardButton(text='rasm12',callback_data='rasm28')
-    rasm19= InlineKeyboardButton(text='rasm12',callback_data='rasm29')
-    rasm20= InlineKeyboardButton(text='rasm12',callback_data='rasm30')
+    rasm13= InlineKeyboardButton(text='rasm13',callback_data='rasm23')
+    rasm14= InlineKeyboardButton(text='rasm14',callback_data='rasm24')
+    rasm15= InlineKeyboardButton(text='rasm15',callback_data='rasm25')
+    rasm16= InlineKeyboardButton(text='rasm16',callback_data='rasm26')
+    rasm17= InlineKeyboardButton(text='rasm17',callback_data='rasm27')
+    rasm18= InlineKeyboardButton(text='rasm18',callback_data='rasm28')
+    rasm19= InlineKeyboardButton(text='rasm19',callback_data='rasm29')
+    rasm20= InlineKeyboardButton(text='rasm20',callback_data='rasm30')
     # Define keyboard
     keyboar = InlineKeyboardMarkup([
         [rasm1,rasm2,rasm3],
